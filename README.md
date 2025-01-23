@@ -63,14 +63,14 @@ I'm a software development engineer. Interested in Solving problems faced during
 [![Mail](https://img.shields.io/badge/-sp8668617734@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sp8668617734@gmail.com)
 
 ## Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/{shubham8668}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{ShubhamPatil}/count.svg)
 
 
 ## My GitHub Stats & Badges
-| <img src="https://github-profile-trophy.vercel.app/?username=shubham8668" alt="shubham8668" /> |
-| <a href="https://github.com/shubham8668"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhampatil&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="shubham's github stats" /></a> | <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampatil&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| <img src="https://github-profile-trophy.vercel.app/?username=ShubhamPatil" alt="ShubhamPatil" /> |
+| <a href="https://github.com/shubham8668"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamPatil&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="shubham's github stats" /></a> | <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampatil&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 
 ## GitHub Activity Graph
-[![shubham github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham8668&custom_title=shubhampatil8668%27s%20activity%20graph&bg_color=fffff0&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&color=708090&days=60)](https://github.com/shubham8668)
+[![shubham github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamPatil&custom_title=ShubhamPatil%27s%20activity%20graph&bg_color=fffff0&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&color=708090&days=60)](https://github.com/shubham8668)
